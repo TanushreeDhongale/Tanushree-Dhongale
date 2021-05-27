@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tanushree Dhongale
 - 👀 I’m interested in Data Analysis and Web Development
-- 🌱 I’m currently learning Data Analysis
+- 🌱 I’m currently pursuing B.Tech in Computer Engineering
 - 📫 How to reach me tanushreedhongale@gmail.com 
 
 <!---
